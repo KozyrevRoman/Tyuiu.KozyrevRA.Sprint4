@@ -58,7 +58,7 @@ namespace Tyuiu.KozyrevRA.Sprint4.Task5.V1
             Console.WriteLine("***************************************************************************");
             int[,] resMas = ds.Calculate(mas);
 
-            for (int i = 0; i < resMas.GetLength(0); i++)
+            for (int i = 0; i < resMas.GetLength(0); i++) 
             {
                 for (int j = 0; j < resMas.GetLength(1); j++)
                 {

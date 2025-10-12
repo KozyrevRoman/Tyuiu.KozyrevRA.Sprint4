@@ -21,7 +21,7 @@ namespace Tyuiu.KozyrevRA.Sprint4.Task5.V1.Test
             {
                 { 1, 1, -4, 1, 1 },
                 { 1, 1, 1, 1, 1 },
-                { 1, 1, 1, 1, 1 },
+                { 1, 1, 1, 1, 0 },
                 { 1, 1, 1, 1, 1 }
             }; 
 
