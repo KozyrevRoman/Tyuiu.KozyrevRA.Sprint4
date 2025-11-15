@@ -11,7 +11,7 @@ namespace Tyuiu.KozyrevRA.Sprint4.Task7.V5.Lib
             {
                 for (int j = 0; j < m; j++)
                 {
-                    matrix[i, j] = int.Parse(value.Substring(i * 3 + j, 1));
+                    matrix[i, j] = int.Parse(value.Substring(i * n + j, 1));
                 }
             }
 
